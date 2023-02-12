@@ -1,10 +1,10 @@
 # Домашнее задание по модулю 18
 ## Как устанавливать программу:
-./build.sh
-make install
+* ./build.sh
+* make install
 
 ## Для удаления:
-make uninstall
+* make uninstall
 
 ## Для удаления исходника:
-make clean
+* make clean
