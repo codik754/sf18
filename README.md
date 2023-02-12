@@ -3,7 +3,7 @@
 * ./build.sh
 * make install
 
-&nbsp;&nbsp;&nbsp;&nbsp;Программа окажется в директории dirProg. Там, где исодники программы.
+&nbsp;&nbsp;&nbsp;&nbsp;Программа окажется в директории dirProg. Там, где исxодники программы.
 
 ## Для удаления:
 * make uninstall
